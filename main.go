@@ -8,6 +8,7 @@ import (
 func main() {
 	fmt.Println("hello world")
 	fmt.Println("hezhan")
+	fmt.Println("morning")
 
 }
 

@@ -12,6 +12,7 @@ func main() {
 
 	fmt.Println("hezhan")
 	fmt.Println("dian")
+	fmt.Println("qimo")
 
 
 }
